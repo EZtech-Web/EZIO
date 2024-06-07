@@ -1164,3 +1164,204 @@ section.lazy-placeholder:after {
     display: none;
   }
 }
+.cid-uf2fTt4aj4 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("https://www.EZWeb.CC/assets/images/mbr.png") !important;
+  background-attachment: fixed;
+}
+.cid-uf2fTt4aj4 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uf2fTt4aj4 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uf2fTt4aj4 .item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+.cid-uf2fTt4aj4 .icon-box {
+  background: #006b0b;
+  width: 60px;
+  min-width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin-right: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cid-uf2fTt4aj4 .mbr-iconfont {
+  font-size: 2rem;
+  color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-uf2fTt4aj4 .card {
+    margin-bottom: 2rem;
+  }
+  .cid-uf2fTt4aj4 .card-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+.cid-uf2fTt4aj4 .mbr-text,
+.cid-uf2fTt4aj4 .mbr-section-btn {
+  color: #001d0a;
+}
+.cid-uf2fTt4aj4 .card-title,
+.cid-uf2fTt4aj4 .card-box {
+  color: #006b0b;
+}
+.cid-uf2fTt4aj4 .icon-title {
+  color: #007209;
+}
+.cid-uf2fTt4aj4 .icon-text {
+  color: #001d0a;
+}
+.cid-uf2fUqxalp {
+  padding-top: 60px;
+  padding-bottom: 15px;
+  background-image: url("https://www.EZWeb.CC/assets/images/mbr.jpg") !important;
+  background-attachment: fixed;
+}
+.cid-uf2fUqxalp .v-center {
+  margin: auto;
+}
+.cid-uf2fUqxalp h2 {
+  text-align: left;
+}
+.cid-uf2fUqxalp h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-uf2fUqxalp p {
+  color: #767676;
+  text-align: left;
+}
+.cid-uf2fUqxalp .aside-content {
+  flex-basis: 100%;
+  -webkit-flex-basis: 100%;
+}
+.cid-uf2fUqxalp .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+  padding: 1rem;
+  background: #ffffff;
+  border-radius: 15px;
+}
+.cid-uf2fUqxalp .media {
+  margin: initial;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-uf2fUqxalp .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+  margin: auto 20px;
+  background: #ffffff;
+  border-radius: 15px;
+}
+.cid-uf2fUqxalp .mbr-figure img {
+  padding: 0.3rem;
+}
+.cid-uf2fUqxalp .card {
+  padding: 0 1rem;
+}
+.cid-uf2fUqxalp .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-uf2fUqxalp .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (max-width: 991px) {
+  .cid-uf2fUqxalp .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 300px) {
+  .cid-uf2fUqxalp .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-uf2fUqxalp H2 {
+  text-align: center;
+  color: #ffffff;
+  text-shadow: 0 0 2px #00ff06, 0 0 10px #00ff06;
+}
+.cid-uf2fUqxalp .mbr-text {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-uf2fUqxalp H4 {
+  color: #009e04;
+  text-align: left;
+}
+.cid-uf2fUqxalp H3 {
+  text-shadow: 0 0 2px #00ff06, 0 0 10px #00ff06;
+}
+.cid-uf2fUqxalp P {
+  color: #001c03;
+}
+.cid-uf2fViqqFU {
+  padding-top: 15px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/mbr-1.jpg");
+}
+.cid-uf2fViqqFU h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-uf2fViqqFU p {
+  color: #767676;
+  text-align: left;
+  margin-bottom: 0;
+}
+.cid-uf2fViqqFU .card-img {
+  text-align: left;
+  -webkit-flex: 1 0 auto;
+  flex: 1 0 auto;
+  width: auto;
+}
+.cid-uf2fViqqFU .card-img span {
+  font-size: 72px;
+  color: #ff3366;
+}
+.cid-uf2fViqqFU .card-box {
+  padding-left: 1rem;
+  word-break: break-word;
+  width: 100%;
+}
+@media (max-width: 991px) {
+  .cid-uf2fViqqFU .card-img {
+    text-align: left;
+    padding-bottom: 0.75rem;
+  }
+  .cid-uf2fViqqFU .card-box {
+    padding-left: 0;
+  }
+}
+.cid-uf2fViqqFU .card-title,
+.cid-uf2fViqqFU .card-img {
+  color: #00135c;
+}
+.cid-uf2fViqqFU P {
+  color: #000426;
+}
+.cid-uf2fViqqFU .BackGrW {
+  background: #ffffff;
+  border-radius: 15px;
+}
