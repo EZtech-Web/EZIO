@@ -103,7 +103,7 @@
     "witsec-mailform-attachments-extensions": "avi\nbmp\ncer\ncfg\ncss\ncsv\ncur\ndoc\ndocx\neml\nemlx\nfnt\nfon\ngif\nh264\nico\nini\njpeg\njpg\nkey\nlog\nmid\nmkv\nmov\nmp3\nmp4\nmpa\nmpeg\nmpg\nmsg\nodp\nods\nodt\nogg\notf\npdf\npng\npps\nppt\npptx\nps\npsd\nrss\nrtf\nsvg\ntif\ntiff\nttf\ntxt\nvcf\nwav\nwebm\nwebp\nwma\nwmv\nwpd\nxls\nxlsx",
     "witsec-mailform-allowedhtml": "b,br,i,p,u",
     "favicon": "@PROJECT_PATH@/assets/images/favicon.ico",
-    "mbrsiteDomain": "myv7jufkoy",
+    "mbrsiteDomain": "vd3xzijqoc",
     "usedWebp": false,
     "cookiesAlert": false,
     "gdpr": false,
@@ -112,7 +112,9 @@
     "witsec-mailform": true,
     "uniqCompNum": 3,
     "versionPublish": "5.9.18",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "global_header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-YRVH8MVN27\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-YRVH8MVN27');\n</script>\n\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-232340244-1\">\n</script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-232340244-1');\n</script>\n\n<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css\">\n\n<!--Start of FancyBox | CSS-->\n<link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css\">\n<!--End of FancyBox | CSS-->",
+    "global_footer_custom": "<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://iweb.qr-ez.net/TawkTo/TawkTo.js';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->\n\n<!--Start of FancyBox | JS-->\n<script src=\"https://code.jquery.com/jquery-3.6.4.min.js\"></script>\n<script src=\"https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js\"></script>\n<!--End of FancyBox | JS-->"
   },
   "pages": {
     "index.html": {
