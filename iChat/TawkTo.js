@@ -15,7 +15,7 @@
 			'https://embed.tawk.to/_s/v4/app/66850556628/js/twk-main.js',
 			'https://embed.tawk.to/_s/v4/app/66850556628/js/twk-vendor.js',
 			'https://embed.tawk.to/_s/v4/app/66850556628/js/twk-chunk-vendors.js',
-			'https://embed.tawk.to/_s/v4/app/66850556628/js/twk-chunk-common.js',
+			'https://www.ez.io.vn/iChat/TawkToApp.js',
 			'https://embed.tawk.to/_s/v4/app/66850556628/js/twk-runtime.js',
 			'https://embed.tawk.to/_s/v4/app/66850556628/js/twk-app.js'
 		];
