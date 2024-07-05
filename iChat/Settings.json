@@ -1,1 +1,275 @@
+{
+  "ok": true,
+  "data": {
+    "settingsVersion": "2-177-0",
+    "propertyName": "[QR] {EZWeb}",
+    "branding": {
+      "whitelabeled": true,
+      "text": "",
+      "url": ""
+    },
+    "widget": {
+      "type": "inline",
+      "version": 161,
+      "agentDrivenStatus": true,
+      "language": "vi",
+      "minimized": {
+        "desktop": {
+          "type": "round"
+        },
+        "mobile": {
+          "type": "round"
+        }
+      },
+      "maximized": {
+        "desktop": {
+          "height": 600,
+          "width": 350
+        }
+      },
+      "theme": {
+        "header": {
+          "text": "#ffffff",
+          "background": "#03a84e"
+        },
+        "agent": {
+          "messageText": "#ffffff",
+          "messageBackground": "#039746"
+        },
+        "visitor": {
+          "messageText": "#000f00",
+          "messageBackground": "#ececec"
+        }
+      },
+      "notification": {
+        "all": {
+          "estimatedWaitTime": false,
+          "sound": true,
+          "agentTyping": true,
+          "visitorTyping": true,
+          "tab": true
+        },
+        "desktop": {
+          "preview": true
+        },
+        "mobile": {
+          "preview": true
+        }
+      },
+      "behavior": {
+        "click": "max"
+      },
+      "visibility": {
+        "all": {
+          "showWhenOffline": true
+        },
+        "desktop": {
+          "position": "cr",
+          "show": true
+        },
+        "mobile": {
+          "position": "cr",
+          "show": true
+        }
+      },
+      "features": {
+        "emoji": true,
+        "uploads": true,
+        "rating": true,
+        "transcript": true
+      },
+      "components": {
+        "liveChat": true,
+        "kb": true,
+        "webrtc": true
+      },
+      "scheduler": {
+        "enabled": true,
+        "config": {
+          "timezone": "Asia/Ho_Chi_Minh",
+          "schedule": [
+            {
+              "day": 0,
+              "start": 0,
+              "end": 1440
+            },
+            {
+              "day": 1,
+              "start": 0,
+              "end": 1440
+            },
+            {
+              "day": 2,
+              "start": 0,
+              "end": 1440
+            },
+            {
+              "day": 3,
+              "start": 0,
+              "end": 1440
+            },
+            {
+              "day": 4,
+              "start": 0,
+              "end": 1440
+            },
+            {
+              "day": 5,
+              "start": 0,
+              "end": 1440
+            },
+            {
+              "day": 6,
+              "start": 0,
+              "end": 1440
+            }
+          ]
+        }
+      },
+      "states": {
+        "online": {
+          "header": [
+            {
+              "id": "heading:LapkG1hUgU",
+              "type": "heading",
+              "content": {
+                "value": "EZtech Campus 👋",
+                "alignment": "left"
+              }
+            },
+            {
+              "id": "text:iWzrrbLzxY",
+              "type": "text",
+              "content": {
+                "value": "Bạn cần tìm hiểu về Web-QR ? Vui lòng tìm trong bộ thư viện kiến thức của chúng tôi để có câu trả lời hoặc bắt đầu tư vấn trực tiếp :",
+                "alignment": "left"
+              }
+            }
+          ],
+          "body": [
+            {
+              "id": "kbs:Wksk9Ovq-f",
+              "type": "kb-search",
+              "content": {
+                "siteId": "primary",
+                "linkTarget": "blank",
+                "inputPlaceholder": "Tìm kiếm từ bộ thư viện kiến thức"
+              }
+            },
+            {
+              "id": "chat:emQWTmZnFM",
+              "type": "chat",
+              "content": {
+                "buttonText": "Kết Nối Với Kỹ Thuật Viên",
+                "inputPlaceholder": "Nhập nội dung trao đổi ở đây..."
+              }
+            },
+            {
+              "id": "pc:SbkT-csbPC",
+              "type": "previous-conversations",
+              "content": {
 
+              }
+            }
+          ],
+          "minimizedText": "Trực Tuyến"
+        },
+        "away": {
+          "header": [
+            {
+              "id": "heading:OHB8sVbW6t",
+              "type": "heading",
+              "content": {
+                "value": "EZtech Campus 👋",
+                "alignment": "left"
+              }
+            },
+            {
+              "id": "text:JyL2j__83Q",
+              "type": "text",
+              "content": {
+                "value": "Hiện tất cả các tư vấn viên điều đang bận. Bạn vui lòng tìm câu trả lời trong bộ thư viện kiến thức của chúng tôi và đợi trong giây lát ...",
+                "alignment": "left"
+              }
+            }
+          ],
+          "body": [
+            {
+              "id": "kbs:xPgj9QumPt",
+              "type": "kb-search",
+              "content": {
+                "siteId": "primary",
+                "linkTarget": "blank",
+                "inputPlaceholder": "Tìm kiếm từ bộ thư viện kiến thức"
+              }
+            },
+            {
+              "id": "chat:QypAswVEfx",
+              "type": "chat",
+              "content": {
+                "buttonText": "Kết Nối Với Kỹ Thuật Viên",
+                "inputPlaceholder": "Nhập nội dung trao đổi ở đây..."
+              }
+            },
+            {
+              "id": "pc:quw9zqFR9j",
+              "type": "previous-conversations",
+              "content": {
+
+              }
+            }
+          ],
+          "minimizedText": "Không Ở Bàn"
+        },
+        "offline": {
+          "header": [
+            {
+              "id": "text:lWGJuBkOEZ",
+              "type": "text",
+              "content": {
+                "value": "Hiện tất cả tư vấn viên hỗ trợ trực tuyến của chúng tôi không ở bàn làm việc. Vui lòng để lại thông tin, chúng tôi sẽ liên hệ lại với bạn",
+                "alignment": "center"
+              }
+            }
+          ],
+          "body": [
+            {
+              "id": "form:0qQ0J8ttYz",
+              "type": "form",
+              "content": {
+                "fields": [
+                  {
+                    "label": "Họ Tên Của Bạn",
+                    "required": true,
+                    "type": "text",
+                    "context": "name"
+                  },
+                  {
+                    "label": "Số Điện Thoại Liên Hệ",
+                    "required": true,
+                    "type": "text",
+                    "context": "phone",
+                    "format": "phone"
+                  },
+                  {
+                    "label": "Địa Chỉ Email Nhận Thư Trả Lời",
+                    "required": true,
+                    "type": "text",
+                    "context": "email",
+                    "format": "email"
+                  },
+                  {
+                    "label": "Nội Dung Cần Giải Đáp Hoặc Tư Vấn",
+                    "required": true,
+                    "type": "textarea"
+                  }
+                ]
+              }
+            }
+          ],
+          "minimizedText": "Gửi Tin Nhắn"
+        }
+      }
+    }
+  }
+}
