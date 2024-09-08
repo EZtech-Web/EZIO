@@ -12,24 +12,24 @@
 		window.$_Tawk.init = true;
 
 		var files = [
-			'https://embed.tawk.to/_s/v4/app/66850556628/js/twk-main.js',
-			'https://embed.tawk.to/_s/v4/app/66850556628/js/twk-vendor.js',
-			'https://embed.tawk.to/_s/v4/app/66850556628/js/twk-chunk-vendors.js',
+			'https://live-tawk.vievent.net/_s/v4/app/66850556628/js/twk-main.js',
+			'https://live-tawk.vievent.net/_s/v4/app/66850556628/js/twk-vendor.js',
+			'https://live-tawk.vievent.net/_s/v4/app/66850556628/js/twk-chunk-vendors.js',
 			'https://www.ez.io.vn/iChat/TawkToApp.js',
-			'https://embed.tawk.to/_s/v4/app/66850556628/js/twk-runtime.js',
-			'https://embed.tawk.to/_s/v4/app/66850556628/js/twk-app.js'
+			'https://live-tawk.vievent.net/_s/v4/app/66850556628/js/twk-runtime.js',
+			'https://live-tawk.vievent.net/_s/v4/app/66850556628/js/twk-app.js'
 		];
 
 		if (typeof Promise === 'undefined') {
-			files.unshift('https://embed.tawk.to/_s/v4/app/66850556628/js/twk-promise-polyfill.js');
+			files.unshift('https://live-tawk.vievent.net/_s/v4/app/66850556628/js/twk-promise-polyfill.js');
 		}
 
 		if (typeof Symbol === 'undefined' || typeof Symbol.iterator === 'undefined') {
-			files.unshift('https://embed.tawk.to/_s/v4/app/66850556628/js/twk-iterator-polyfill.js');
+			files.unshift('https://live-tawk.vievent.net/_s/v4/app/66850556628/js/twk-iterator-polyfill.js');
 		}
 
 		if (typeof Object.entries === 'undefined') {
-			files.unshift('https://embed.tawk.to/_s/v4/app/66850556628/js/twk-entries-polyfill.js');
+			files.unshift('https://live-tawk.vievent.net/_s/v4/app/66850556628/js/twk-entries-polyfill.js');
 		}
 
 		if (!window.crypto) {
@@ -37,15 +37,15 @@
 		}
 
 		if (typeof Event !== 'function') {
-			files.unshift('https://embed.tawk.to/_s/v4/app/66850556628/js/twk-event-polyfill.js');
+			files.unshift('https://live-tawk.vievent.net/_s/v4/app/66850556628/js/twk-event-polyfill.js');
 		}
 
 		if (!Object.values) {
-			files.unshift('https://embed.tawk.to/_s/v4/app/66850556628/js/twk-object-values-polyfill.js');
+			files.unshift('https://live-tawk.vievent.net/_s/v4/app/66850556628/js/twk-object-values-polyfill.js');
 		}
 
 		if (typeof Array.prototype.find === 'undefined') {
-			files.unshift('https://embed.tawk.to/_s/v4/app/66850556628/js/twk-arr-find-polyfill.js');
+			files.unshift('https://live-tawk.vievent.net/_s/v4/app/66850556628/js/twk-arr-find-polyfill.js');
 		}
 
 		var s0=document.getElementsByTagName('script')[0];
