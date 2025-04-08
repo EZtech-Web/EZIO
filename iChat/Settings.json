@@ -1,7 +1,7 @@
 {
   "ok": true,
   "data": {
-    "settingsVersion": "2-177-0",
+    "settingsVersion": "2-186-0",
     "propertyName": "[QR] {EZWeb}",
     "branding": {
       "whitelabeled": true,
@@ -10,8 +10,8 @@
     },
     "widget": {
       "type": "inline",
-      "version": 161,
-      "agentDrivenStatus": true,
+      "version": 170,
+      "agentDrivenStatus": false,
       "language": "vi",
       "minimized": {
         "desktop": {
@@ -172,7 +172,7 @@
               }
             }
           ],
-          "minimizedText": "Trực Tuyến"
+          "minimizedText": "Trực tuyến"
         },
         "away": {
           "header": [
@@ -219,7 +219,7 @@
               }
             }
           ],
-          "minimizedText": "Không Ở Bàn"
+          "minimizedText": "Không ở bàn"
         },
         "offline": {
           "header": [
@@ -267,7 +267,7 @@
               }
             }
           ],
-          "minimizedText": "Gửi Tin Nhắn"
+          "minimizedText": "Gửi tin nhắn"
         }
       }
     }
