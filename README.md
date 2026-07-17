@@ -1,2 +1,2 @@
 # EZIO
-[EZ-IO] {WEB-QR}
+[EZ-IO] {TechLabs-2026}
